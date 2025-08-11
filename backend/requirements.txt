@@ -1,4 +1,13 @@
-fastapi==0.110.0
-uvicorn[standard]==0.29.0
-sqlalchemy==2.0.25
-pydantic==2.6.4
+fastapi==0.111.0
+uvicorn[standard]==0.30.5
+sqlalchemy==2.0.31
+pydantic==2.7.4
+
+
+cd C:\Users\000627678\Documents\Sapguidepro
+git init
+git add .
+git commit -m "First commit"
+git branch -M main
+git remote add origin https://github.com/lucaskuhn10/sapguidepro.git
+git push -u origin main
